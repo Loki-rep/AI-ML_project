@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Streamlit cache
+.streamlit/
+
+# FAISS index and metadata
+*.index
+*.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Jupyter Notebooks (if any)
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Mac-specific
+*.DS_Store
+
+# Windows-specific
+ehthumbs.db
+Icon?
